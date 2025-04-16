@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 929783e484b612f4ea741baa4e4b2fdc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CarYellowDayPrefab: {instanceID: 0}
+  - CarRedDayPrefab: {instanceID: 0}
+  - CarYellowNightPrefab: {instanceID: 0}
+  - CarRedNightPrefab: {instanceID: 0}
+  - dayLight: {instanceID: 0}
+  - nightLight: {instanceID: 0}
+  - finishobjC: {instanceID: 0}
+  - oneplayerobjC: {instanceID: 0}
+  - twoplayerobjC: {instanceID: 0}
+  - player1map1: {instanceID: 0}
+  - player2map1: {instanceID: 0}
+  - player1map2: {instanceID: 0}
+  - player2map2: {instanceID: 0}
+  - PlayerOneBestTime: {instanceID: 0}
+  - canvas_player_two: {instanceID: 0}
+  - miniMap1: {fileID: 2592748170646469033, guid: a828f13034b4b55418cfd938217d989e,
+      type: 3}
+  - miniMap2: {fileID: 6209763895991776360, guid: fedc481e80f5b644db415f409437d4a4,
+      type: 3}
+  - MinDisplayBest: {instanceID: 0}
+  - SecDisplayBest: {instanceID: 0}
+  - MillDisplayBest: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
